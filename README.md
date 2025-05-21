@@ -1,2 +1,2 @@
 # angular-challenge
-challenges with Angular.
+Challenges with Angular.
